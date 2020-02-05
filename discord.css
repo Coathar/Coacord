@@ -1,0 +1,34 @@
+.emojiButton-jE9tXC {
+    display: none;
+}
+
+.emojiSeparator-10VgEJ {
+    display: none;
+}
+
+.isUnread-3Ef-o9 {
+    margin-top: 10px;
+    padding-bottom: -5px;
+}
+
+.unreadPill-2HyYtt {
+    position: absolute;
+    left: 0%;
+    right: 98%;
+    -webkit-transform: translateX(-50%);
+    transform: translateX(-50%)
+}
+
+.groupStart-23k01U {
+    border-top: solid hsla(218, 5%, 47%, 0.25) 1px;
+    padding-top: 15px;
+}
+
+.isUnread-3Ef-o9 + .groupStart-23k01U {
+    border: none;
+}
+
+.hasContent-1_DUdQ + .groupStart-23k01U {
+    border: none;
+}
+
